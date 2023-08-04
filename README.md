@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hola, soy un estudiante de ingeniería en sistemas de 21 años que le apasiona la tecnología y el aprendizaje. Me gusta explorar diferentes áreas de la informática, como la programación, el diseño web, la inteligencia artificial y la seguridad. En mi tiempo libre, me gusta leer, escuchar música y jugar videojuegos. Estoy abierto a colaborar en proyectos interesantes y a aprender de otros desarrolladores. Puedes contactarme por correo electrónico o por redes sociales.<br>
 
 
